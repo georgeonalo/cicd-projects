@@ -2,23 +2,23 @@
 
 ### Steps taken to complete this project.
 
-### Create an IAM User With Full Access
+### Step 1: Create an IAM User With Full Access
 
-### Create and Clone a GitHub Repository
+### Step 2: Create and Clone a GitHub Repository
 
-### Test Your Terraform Script Locally
+### Step 3: Test Your Terraform Script Locally
 
-### Create Shell Scripts
+### Step 4: Create Shell Scripts
 
-### Create a Buildspec.yml File For CodeBuild Job
+### Step 5: Create a Buildspec.yml File For CodeBuild Job
 
-### Create Personal Access Token
+### Step 6: Create Personal Access Token
 
-### Store Terraform State File in an S3 Bucket
+### Step 7: Store Terraform State File in an S3 Bucket
 
-### Create Build Project in CodeBuild
+### Step 8: Create Build Project in CodeBuild
 
-### Run Terraform Destroy in CodeBuild Project
+### Step 9: Run Terraform Destroy in CodeBuild Project
 
 ### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeeded in creating this project.
 
