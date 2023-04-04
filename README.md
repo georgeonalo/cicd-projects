@@ -20,7 +20,7 @@
 
 #### Step 9: Run Terraform Destroy in CodeBuild Project
 
-#### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeeded in creating this project.
+#### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeded in creating this project.
 
 
 
